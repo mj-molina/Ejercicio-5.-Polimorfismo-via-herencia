@@ -72,7 +72,7 @@ public class VistaConsola {
         }
     }
 
-    public void mostrarEstadoJugador(Jugador jugador) {
+            public void mostrarEstadoJugador(Jugador jugador) {
         System.out.println("--- " + jugador + " ---");
         mostrarMano(jugador);
     }
