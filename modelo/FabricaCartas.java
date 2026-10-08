@@ -43,7 +43,7 @@ public class FabricaCartas {
         "Las entregas se acumulan y el estres sube."
     };
 
-    private static final int[] DURACIONES_EVENTOS = {2, 2, 1, 1, 1};
+    private static final int[] DURACIONES_EVENTOS = {2, 2, 2, 2, 2};
 
     private static final int[] MODIFICADORES_EVENTOS = {1, -1, 1, -1, 2};
 
